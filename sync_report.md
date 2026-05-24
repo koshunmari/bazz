@@ -1,4 +1,3 @@
-[2026-05-17 08:58] BNB Smart Chain Index: $653.65 USD
 [2026-05-17 14:18] BNB Smart Chain Index: $651.4 USD
 [2026-05-17 20:03] BNB Smart Chain Index: $655.62 USD
 [2026-05-18 05:15] BNB Smart Chain Index: $643.4 USD
@@ -27,3 +26,4 @@
 [2026-05-23 20:10] BNB Smart Chain Index: $651.15 USD
 [2026-05-24 05:08] BNB Smart Chain Index: $654.95 USD
 [2026-05-24 09:20] BNB Smart Chain Index: $657.86 USD
+[2026-05-24 14:30] BNB Smart Chain Index: $654.93 USD
